@@ -1,0 +1,556 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ima",
+				"imagem_alterada"
+			],
+			[
+				"data",
+				"dataFrame"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"addr",
+				"address"
+			],
+			[
+				"get",
+				"getValuePointer"
+			],
+			[
+				"getv",
+				"getValuePointer"
+			],
+			[
+				"getV",
+				"getValuePointer"
+			],
+			[
+				"a",
+				"attributes"
+			],
+			[
+				"the",
+				"theAttributes"
+			],
+			[
+				"adn",
+				"advanceTime"
+			],
+			[
+				"adv",
+				"advanceTime"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"num",
+				"number_cam_l"
+			],
+			[
+				"run",
+				"runFederate"
+			],
+			[
+				"tim",
+				"timeVF"
+			],
+			[
+				"time",
+				"timeFed"
+			],
+			[
+				"v",
+				"v_p"
+			],
+			[
+				"vist",
+				"visited"
+			],
+			[
+				"matrix",
+				"matrix_aux"
+			],
+			[
+				"ma",
+				"matrix"
+			],
+			[
+				"prin",
+				"printMatrix"
+			],
+			[
+				"pri",
+				"printMatrix"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_receiver/main.cpp",
+			"settings":
+			{
+				"buffer_size": 476,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_receiver/FederateAmbassador.h",
+			"settings":
+			{
+				"buffer_size": 6240,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_receiver/FederateAmbassador.cpp",
+			"settings":
+			{
+				"buffer_size": 10521,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_receiver/VirtualBusFederate.h",
+			"settings":
+			{
+				"buffer_size": 4296,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_receiver/VirtualBusFederate.cpp",
+			"settings":
+			{
+				"buffer_size": 18282,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"clera",
+			"g++ --version",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_sender/VirtualBusFederate.cpp",
+		"/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_sender/VirtualBusFederate.h",
+		"/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_sender/main.cpp",
+		"/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_sender/FederateAmbassador.h",
+		"/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_sender/FederateAmbassador.cpp",
+		"/home/felipe/Documentos/Universidade/pibic_with_string/virtual_bus_sender/main.cpp",
+		"/home/felipe/Documentos/Universidade/pibic_with_string/virtual_bus_sender/FederateAmbassador.h",
+		"/home/felipe/Documentos/Universidade/pibic_with_string/virtual_bus_sender/FederateAmbassador.cpp",
+		"/home/felipe/Documentos/Universidade/pibic_with_string/virtual_bus_sender/VirtualBusFederate.h",
+		"/home/felipe/Documentos/Universidade/pibic_with_string/virtual_bus_sender/VirtualBusFederate.cpp",
+		"/home/felipe/Documentos/Universidade/pibic_with_string/virtual_bus_receiver/main.cpp",
+		"/home/felipe/Documentos/Universidade/pibic_with_string/virtual_bus_receiver/FederateAmbassador.h",
+		"/home/felipe/Documentos/Universidade/pibic_with_string/virtual_bus_receiver/FederateAmbassador.cpp",
+		"/home/felipe/Documentos/Universidade/pibic_with_string/virtual_bus_receiver/VirtualBusFederate.h",
+		"/home/felipe/Documentos/Universidade/pibic_with_string/virtual_bus_receiver/VirtualBusFederate.cpp",
+		"/home/felipe/Documentos/Universidade/pibic_with_string/virtual_bus_receiver/VirtualBus.cpp",
+		"/home/felipe/Documentos/Universidade/pibic/virtual_bus_sender/main.cpp",
+		"/home/felipe/Documentos/Universidade/pibic/virtual_bus_sender/FederateAmbassador.h",
+		"/home/felipe/Documentos/Universidade/pibic/virtual_bus_sender/FederateAmbassador.cpp",
+		"/home/felipe/Documentos/Universidade/pibic/virtual_bus_sender/VirtualBusFederate.h",
+		"/home/felipe/Documentos/Universidade/pibic/virtual_bus_sender/VirtualBusFederate.cpp",
+		"/home/felipe/Documentos/Universidade/pibic/virtual_bus_receiver/main.cpp",
+		"/home/felipe/Documentos/Universidade/pibic/virtual_bus_receiver/FederateAmbassador.h",
+		"/home/felipe/Documentos/Universidade/pibic/virtual_bus_receiver/FederateAmbassador.cpp",
+		"/home/felipe/Documentos/Universidade/pibic/virtual_bus_receiver/VirtualBusFederate.h",
+		"/home/felipe/Documentos/Universidade/pibic/virtual_bus_receiver/VirtualBusFederate.cpp",
+		"/home/felipe/Documentos/Universidade/pibic/all.sublime-project",
+		"/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_receiver/VirtualBusFederate.cpp",
+		"/home/felipe/Área de Trabalho/receiver/VirtualBusFederate.cpp",
+		"/home/felipe/Área de Trabalho/virtual_bus_receiver/VirtualBusFederate.cpp",
+		"/home/felipe/Área de Trabalho/apagar/virtual_bus_sender/VirtualBusFederate.cpp",
+		"/home/felipe/Área de Trabalho/pibic/virtual_bus_sender/VirtualBusFederate.cpp",
+		"/home/felipe/Área de Trabalho/teste_allison_qmath.cpp",
+		"/home/felipe/Área de Trabalho/allison.c",
+		"/home/felipe/Área de Trabalho/teste_128.cpp",
+		"/home/felipe/Área de Trabalho/testeopencv2.cpp",
+		"/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_receiver/VirtualBusFederate.h",
+		"/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_receiver/FederateAmbassador.h",
+		"/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_receiver/FederateAmbassador.cpp",
+		"/home/felipe/Área de Trabalho/pibic/virtual_bus_sender/VirtualBusFederate.h",
+		"/home/felipe/Área de Trabalho/pibic/virtual_bus_sender/FederateAmbassador.cpp",
+		"/home/felipe/Área de Trabalho/pibic/virtual_bus_sender/FederateAmbassador.h",
+		"/home/felipe/Área de Trabalho/pibic/virtual_bus_receiver/FederateAmbassador.h",
+		"/home/felipe/Área de Trabalho/pibic/virtual_bus_receiver/FederateAmbassador.cpp",
+		"/home/felipe/Área de Trabalho/pibic/virtual_bus_receiver/VirtualBusFederate.h",
+		"/home/felipe/Área de Trabalho/pibic/virtual_bus_receiver/VirtualBusFederate.cpp",
+		"/home/felipe/Área de Trabalho/ufpb_hladistributedparallel-virtualbus_image_processor-07ae057c2a79/VirtualBusFederate.cpp",
+		"/home/felipe/Documentos/CERTI/include/ieee1516-2010/RTI/encoding/EncodingConfig.h",
+		"/home/felipe/Área de Trabalho/sender/VirtualBusFederate.cpp",
+		"/home/felipe/Área de Trabalho/sender/VirtualBusFederate.h",
+		"/home/felipe/Área de Trabalho/virtual_bus_receiver/VirtualBusFederate.h",
+		"/home/felipe/Documentos/Universidade/pibic/virtual_bus_receiver/VirtualBusFederate (cópia).h",
+		"/home/felipe/Documentos/Universidade/pibic/virtual_bus_receiver/VirtualBus.cpp",
+		"/home/felipe/Documentos/Universidade/pibic/virtual_bus_receiver/VirtualBus.h",
+		"/home/felipe/Documentos/Universidade/ITI/tester.vcxproj.filters",
+		"/home/felipe/Documentos/Universidade/ITI/tester.vcxproj",
+		"/home/felipe/Documentos/Universidade/ITI/tester.filters",
+		"/home/felipe/Documentos/Universidade/ITI/tester.cpp",
+		"/home/felipe/Documentos/Universidade/ITI/pride_and_prejudice.txt",
+		"/home/felipe/Documentos/Universidade/ITI/model_metrics.h",
+		"/home/felipe/Documentos/Universidade/ITI/modelA.h",
+		"/home/felipe/Documentos/Universidade/ITI/makefile",
+		"/home/felipe/Documentos/Universidade/ITI/fp_proto.vcxproj.filters",
+		"/home/felipe/Documentos/Universidade/ITI/fp_proto.vcxproj",
+		"/home/felipe/Documentos/Universidade/ITI/fp_proto.cpp",
+		"/home/felipe/Documentos/Universidade/ITI/decompressor.h",
+		"/home/felipe/Documentos/Universidade/ITI/decompress.vcxproj.filters",
+		"/home/felipe/Documentos/Universidade/ITI/decompress.vcxproj",
+		"/home/felipe/Documentos/Universidade/ITI/decompress.cpp",
+		"/home/felipe/Documentos/Universidade/ITI/ari.sln",
+		"/home/felipe/Documentos/Universidade/ITI/bitio.h",
+		"/home/felipe/Documentos/Universidade/ITI/byteio.h",
+		"/home/felipe/Documentos/Universidade/ITI/compress.cpp",
+		"/home/felipe/Documentos/Universidade/ITI/compress.vcxproj",
+		"/home/felipe/Documentos/Universidade/ITI/compress.vcxproj.filters",
+		"/home/felipe/Documentos/Universidade/ITI/compressor.h",
+		"/home/felipe/Documentos/d4e0df5b134c2cd63cf2-1e62929aa302866bb8a997ec2895a3a063b10169/dijkstra.cpp",
+		"/home/felipe/Documentos/dijkstra.cpp",
+		"/home/felipe/.cache/.fr-hlGVrT/meuExemplo/ExampleCPPFederate.h",
+		"/home/felipe/.cache/.fr-XNlros/meuExemplo/ExampleCPPFederate.cpp",
+		"/home/felipe/.cache/.fr-MMK0nB/meuExemplo/ExampleCPPFederate.h",
+		"/home/felipe/Documentos/Universidade/Design_and_analysis_of_algorithms/Projects/Caixeiro/main.cpp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"registerObject",
+			"oHandle",
+			"writeData",
+			"sendCrop",
+			"pause",
+			"number_image",
+			"sendCrop",
+			"receivedData",
+			"sendImg",
+			"sendCrop",
+			"draw",
+			"data7",
+			"push_",
+			"ahandle",
+			"arm",
+			"size",
+			"syn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sz"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_receiver/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_receiver/FederateAmbassador.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								501,
+								501
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_receiver/FederateAmbassador.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_receiver/VirtualBusFederate.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/felipe/Documentos/testesHLA_APAGAR/virtual_bus_receiver/VirtualBusFederate.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "all.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

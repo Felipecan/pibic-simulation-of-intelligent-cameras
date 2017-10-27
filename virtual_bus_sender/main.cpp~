@@ -1,0 +1,107 @@
+#include <stdio.h>
+#include <iostream>
+#include <unistd.h>
+
+#include <string.h>
+#include "VirtualBusFederate.h"
+
+#include <opencv2/core/core.hpp>
+#include <opencv2/highgui/highgui.hpp>
+
+#include <stdlib.h>
+
+using namespace cv;
+using namespace std;
+
+int main( int argc, char **argv )
+{
+
+	int i = 0; 
+	bool d = true;
+	unsigned name;
+	d = true;
+	unsigned data1, data2, data3, data4;
+	unsigned size = 1;
+	unsigned a = 9999;
+	//int x, y;
+
+	char federateName[20];
+	// check to see if we have a federate name
+	strcpy(federateName, "HostFederate");
+	if( argc > 1 )
+		strcpy(federateName,argv[1]);	
+	
+	// create and run the federate
+	VirtualBusFederate *federate;
+	federate = new VirtualBusFederate();
+	federate->runFederate( federateName );
+
+	//federate->loop(50);
+	/*
+	Mat image;
+	image = imread( argv[2], 1 );
+	if ( !image.data ){
+		printf("No image data \n");
+		return -1;
+	}
+	*/
+	cout << "Imagem foi aberta" << endl;
+
+	/*
+	cv::namedWindow("image", cv::WINDOW_AUTOSIZE );
+
+	//Alteração hlm
+	while (true) {
+
+	if(!image.empty()){
+	    cv::imshow("image", image);
+	    break;g
+	}
+
+	// delay 33ms
+	cv::waitKey(33);
+	cout << ".";
+	}
+
+	cv::waitKey(0);
+	*/
+	//int imageSize = image.total()*image.elemSize();
+	//cout << "Image size: " << imageSize << endl;
+	//cout << "Image resolution: " << image.rows << "x" << image.cols << endl;
+
+	federate->advanceTime(1.0);
+
+	while(d){	
+		//cout << "\nInforme o terminal a procurar no momento ";
+		//cin >> name;
+
+		//federate->writeData(name, a, size, data1, data2, data3, data4); 
+
+		federate->advanceTime(1.0);
+
+		if(federate->readData(name, a, size, data1, data2, data3, data4)){
+			if(data1 == 5){
+				cout << ">>>>> FACE ENCONTRADA!! <<<<<\n";
+				cout << "terminal " << (char)name << endl;
+				cout << "\n -- data1 " << data1 << endl;
+			}
+			if(data1 == 3){
+				cout << " -- A face não foi encontrada no terminal " << (char)name << endl;
+				cout << "\n\n";
+				cout << " -- data1 " << data1 << endl;
+			}else{cout << ">>>>> Atraso!! <<<<<\n";cout << "\n -- data1 " << data1 << endl;}			
+		}else{
+                  	federate->advanceTime(1.0);
+	  	}
+
+		//i++;
+		//system("PAUSE");
+	}
+
+
+	federate->finalize();
+
+	// clean up
+	delete federate;
+	return 0;
+}

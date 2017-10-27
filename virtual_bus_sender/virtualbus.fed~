@@ -1,0 +1,28 @@
+(FED
+  (Federation ARMVirtualBusFederation)
+  (FEDversion v1.3)
+  (spaces
+  )
+  (objects
+    (class VirtualBus
+      (attribute privilegeToDelete reliable timestamp)
+      (class RTIprivate)
+      (class port
+	(attribute source reliable timestamp)        
+	(attribute address reliable timestamp)
+	(attribute size reliable timestamp)
+	(attribute data1 reliable timestamp)
+	(attribute data2 reliable timestamp)
+	(attribute data3 reliable timestamp)
+	(attribute data4 reliable timestamp)
+	(attribute data5 reliable timestamp)
+	(attribute data6 reliable timestamp)
+	(attribute data7 reliable timestamp)
+	(attribute data8 reliable timestamp)
+
+      )
+    )
+  )
+  (interactions
+  )
+)
