@@ -16,5 +16,5 @@ Em um ambiente monitorado por câmeras, principalmente pela segurança, em algum
 **Como executar:**
 > - Primeiro executo o arquivo da pasta *virtual_bus_sender* (o mesmo simula uma central que envia informações para as câmeras procurarem): ./run_virtual_bus_sender 0  
 > - Em seguida execute o arquivo da pasta *virtual_bus_receiver* (cada execução simulará uma câmera): ./run_virtual_bus_receiver número_da_câmera fonte_de_vídeo  
-> **- Obs: A última câmera deve ter o número 2, para assim começar a simulação**  
+> - ** Obs: A última câmera deve ter o número 2, para assim começar a simulação**  
 
